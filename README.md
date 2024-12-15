@@ -14,7 +14,7 @@ Hi, I'm Jonathan, a highly motivated software engineer with a passion for techno
 
 **Tools:** Node.js, Git, Linux
 
-[Contact Me!](https://www.jonweb.dev/#contact)
+<a href="https://www.jonweb.dev/#contact" class="button">Contact Me!</a>
 
 <style>
 .button {
