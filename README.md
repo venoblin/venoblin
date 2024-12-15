@@ -15,3 +15,18 @@ Hi, I'm Jonathan, a highly motivated software engineer with a passion for techno
 **Tools:** Node.js, Git, Linux
 
 [Contact Me!](https://www.jonweb.dev/#contact)
+
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
