@@ -14,4 +14,4 @@ Hi, I'm Jonathan, a highly motivated software engineer with a passion for techno
 
 **Tools:** Node.js, Git, Linux
 
-## [Contact Me](https://www.jonweb.dev/#contact)
+[Contact Me!](https://www.jonweb.dev/#contact)
