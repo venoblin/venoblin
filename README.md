@@ -22,10 +22,4 @@ Here are some of the projects I've worked on:
 
 **Tools:** Node.js, Git, Linux
 
-## Contact
-
-* **Portfolio:** [link-to-portfolio](https://www.jonweb.dev/#contact)
-
-## Let's Connect!
-
-I'm always open to new opportunities and collaborations. Feel free to reach out to me if you have any questions or would like to connect.
+## [Contact Me](https://www.jonweb.dev/#contact)
